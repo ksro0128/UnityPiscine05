@@ -1,0 +1,2542 @@
+fileFormatVersion: 2
+guid: 020ee2a96b398104496b38bd2d6ad6ce
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.33027118, y: 0.25153106}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caterpillar_death7_0
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 985
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5a77a193ab1498d872f23769d00989
+      internalID: 484585144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_1
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 954
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1c70c1e873a4546aed4314844bb950
+      internalID: -327452622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 934
+        width: 13
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953a787a24f0d48908a961065ac7b06d
+      internalID: 1798617850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 945
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a39188a5e074e629391b56381fa048
+      internalID: 1800562561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 912
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d2835f9ccaa4f06b0a13b37b3738f1
+      internalID: -1176481484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_5
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 918
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f8c1a3c94a940a48ef87cc3e84a83f
+      internalID: -1653745568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 881
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f00a9f337214dff9b8e8fcaae80703
+      internalID: 1172208890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_7
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 891
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f074f4dc4d0db443ea788f3e696406e3
+      internalID: -577399849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_8
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 885
+        width: 32
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d9e7dce4fb6491ab5d2ac6d73bc166
+      internalID: -565279765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_9
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 841
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88766c8944cd3454fab04600e94e88e9
+      internalID: -1239859735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 871
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1f4c7832688422b90c1db5b8e89fe1
+      internalID: 1804938970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_11
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 867
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61332f67f2b8f40318f60c34ceda99b5
+      internalID: 1484595104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_12
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 862
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa22448df67340c9945f0c9a55f7ad0
+      internalID: -1435197495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_13
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 828
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910e4fd22f6c74e609bb7efca662af90
+      internalID: 1028558837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_14
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 832
+        width: 13
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da366eac147b4f1aa8905c55e391439
+      internalID: -498575928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_15
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 831
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a79d5054cc0246729e8fd5cba4c2ded
+      internalID: -1253060529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_16
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 823
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720c5b61364444579b030d722af78ea2
+      internalID: 782716591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_17
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 837
+        width: 11
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c78f473d4a47403d863183b2f858ee9
+      internalID: 1645570629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_18
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 831
+        width: 25
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dfdbef81bd743c58bf72cde12f0a10
+      internalID: 1717437363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_19
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 821
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcf21d261e3246258cd226972169e67
+      internalID: 2059928339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_20
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 822
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d216aa711f6d5458cb31c9558edd9a9d
+      internalID: 1613602300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_21
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 817
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b03107b8fbb43e6a1cd60b8232bfa0
+      internalID: -1402165639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 799
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc3ff4bd289b4fbfbd479674e0073bd
+      internalID: 1693204696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_23
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 794
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a818519bc8e4c440d9338a58f294b873
+      internalID: -831885824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_24
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 809
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c14bfe73bec4611a2ffd7adbb8218f
+      internalID: 212054850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_25
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 803
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14da1f0744f143fc8b7ddd21d7e1126
+      internalID: -270300685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_26
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 783
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faa3137712264331abb6f477fd572d5
+      internalID: 1863424013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_27
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 718
+        width: 44
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af72d2e61fa194caeba9931bfb23f5fd
+      internalID: -166672966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_28
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 786
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c426f843962bd4f70a87ad8e219a5865
+      internalID: -1024686513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_29
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 785
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366ba9a4b98224f92ade136c2b287e1e
+      internalID: -1574693692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_30
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 779
+        width: 31
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a790c6c5aa2497989465f055f3d4f0
+      internalID: -308201603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_31
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 780
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35a91201a1314e2dbd9898dccb14e46
+      internalID: -1078926770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_32
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 754
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e70ce5ae45a4e649682516b06b5ad2
+      internalID: -314148182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_33
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 762
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a86f8299b34e49aa8516d51e616a026
+      internalID: -856411353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_34
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 752
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf2a1159d7bd4d43a9d3dd91b6aaae8
+      internalID: 1344867849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_35
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 725
+        width: 33
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a14cd4080824d8b82cc49d344f6058
+      internalID: -1653110335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_36
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 767
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576e9e7a43d434808bcbfcea95dce0da
+      internalID: -209241412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_37
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 760
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15264ac17403427d97ea15089eacb0c
+      internalID: 1680959191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_38
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 755
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9c7ca449c4240dabdc36659c2adb96
+      internalID: 1363822637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_39
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 748
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a47bd23159ec4a2daf286efd34879b0
+      internalID: 1915668071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_40
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 746
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272a25f73523a4818a263cd1420861e9
+      internalID: -1101444435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_41
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 743
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928c56de3c7f14c8098e6634ed3415cb
+      internalID: -294675544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_42
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 737
+        width: 33
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5977d6e52cfce4ee8851ed33cd9eb412
+      internalID: -1746308881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_43
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 744
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64052753089b54c629cd11ba9096a3e6
+      internalID: -434269987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_44
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 744
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92bcb5891b164887bda40e396b99047
+      internalID: 1102325516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 338
+        width: 491
+        height: 399
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd045c96c78240d5bf64b55a0d69613
+      internalID: -2028136404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_46
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 732
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65d4e047f18c4b22a1f1aad358a7ae8
+      internalID: -461369776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_47
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 721
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cd40ddd8e2e4989933a28c4fb44d74
+      internalID: 403931594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_48
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 733
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8b41874fd664f959b2dd2c734cdcc0
+      internalID: 1384252551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_49
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 720
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67b513429fdf46de9b942354dbb6162
+      internalID: 758601427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_50
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 716
+        width: 17
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5e02ab35c3a4c5faef2c83299ac42c
+      internalID: -310646460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_51
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 721
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0522f89846020456aa3f0bd4da0ee0d5
+      internalID: -948317605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_52
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 714
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2005e9cfa81b4539804b3555cb86d8c
+      internalID: -569929607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_53
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 723
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9756f9e60f80c42af8e4eff3a786093d
+      internalID: -455774532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_54
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 715
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9feea8dd344764edabec52078ba5fc03
+      internalID: -873237700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_55
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 718
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620be5e1367f34169a5706665319ef99
+      internalID: 899497781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_56
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 558
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad34948b64054413088447677cdc3343
+      internalID: 592285491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_57
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 577
+        width: 44
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d517dd9351d428ebbee95a59c3eb22
+      internalID: 1674000489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_58
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 566
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9989edec326db4153992c36a3e6dfecb
+      internalID: 128616442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_59
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 537
+        width: 18
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8267bb0e02246139ab70206c700197
+      internalID: 168338844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_60
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 545
+        width: 43
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d321f7b12e14d0cabe1901abbdd6a6
+      internalID: -134042257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_61
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 502
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535eacb9734f94fbf959f909eb2ca985
+      internalID: -2076458077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_62
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 503
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fdba6ea2efe4bbd85b112d29d434fd
+      internalID: -1992970400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 474
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3a334a2937f424e826a613e1bfe4f7
+      internalID: 138555620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_64
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 436
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2eee4c379f0f4a79b4c5cfaeb1e2884
+      internalID: 470955731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_65
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 430
+        width: 38
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5baaa84f5ca4227930353fca58016b
+      internalID: 977191973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_66
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 400
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b259fb3c51fb4be8a5e0adeec9ed4d9
+      internalID: -28337803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_67
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 401
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd562e70b75474300a5d6dc5bf610536
+      internalID: 1095911775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_68
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 374
+        width: 41
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86b0c727a98d4951803637981c31f03
+      internalID: -2009792264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_69
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 334
+        width: 28
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f96b2e2de604e239183a6a3c1bee01
+      internalID: 127083379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_70
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 329
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a11465f263c5454e9b627e0bb532cc7
+      internalID: -54433756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_71
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 336
+        width: 24
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6327a764f2228451f9a39c17e53c8871
+      internalID: 955693060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_72
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 351
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4aab4117f734d8281fa6b6e42ed960
+      internalID: -1162988707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_73
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 330
+        width: 23
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d2a61c82e8f43cdb91afc1e4434dc0
+      internalID: 71729987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_74
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 330
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a7195393498440b8dd484b3528b540
+      internalID: 1282254587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_75
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 327
+        width: 7
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc581ed8f8b040978b50e249c4b95de
+      internalID: -1469414421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_76
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 336
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdb22a387698483fbff10bd5e2c042a
+      internalID: -336642372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_77
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 317
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219bda70974a14361be9a84c89d8bba0
+      internalID: 876022806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_78
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 326
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5d6b468a53d409392bfd0a6ae70eff
+      internalID: 838841085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_79
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 285
+        width: 24
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b3427c7eda34891b469624875d254d
+      internalID: -1318644914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_80
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 320
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb3b85c12aea44e7aa480f849950200
+      internalID: -419839635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_81
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 316
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113b00dac55f04a768b3265dfbf1e126
+      internalID: -672196432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_82
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 318
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3937daac5f73142afb2c33669d3369e7
+      internalID: 879633976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_83
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 323
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e57cb61d06c4f2798e18c4f6a9fc49
+      internalID: 889057230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_84
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 320
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1e664e2a4f0490da8572a854a9091b
+      internalID: -1169201797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_85
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 318
+        width: 21
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c5c7dce1ee94f088fd7b634c06ba34
+      internalID: -1478345404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_86
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 304
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cb16227ec724be28b6df671523401c
+      internalID: -1229734375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_87
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 299
+        width: 25
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab54e6408c0cb411d9e422b206db0b9b
+      internalID: -1068047165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_88
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 314
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3deb5c2fd3a4e7eb6f58c9ff840e84
+      internalID: -172458466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_89
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 305
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf4844637585480a8c32ce5b16dc088
+      internalID: 1983971984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_90
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 163
+        width: 76
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660f09f8e40504b99a73b0de8e8c8880
+      internalID: -1395756323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_91
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 304
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf896d91f6d948a4b61a5d94548adc2
+      internalID: 1664788823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_92
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 268
+        width: 24
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff974a9ce1bbb4a04a25f25ec2ae41f4
+      internalID: -1716353947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_93
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 282
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56d6d9d89d15456d8fb8fc33123ca9f
+      internalID: 1774451590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_94
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 275
+        width: 36
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9706457bf2904086b6caf9ae56f6159
+      internalID: 1463922941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_95
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 169
+        width: 50
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f41dcfdd29b9467988a1bdbcd73b343
+      internalID: 1044866151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_96
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 294
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1b35700f1634080bed554b2b41686a
+      internalID: -1266317729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_97
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 282
+        width: 12
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82617bb8dcbf24e08be74878230e4ff6
+      internalID: 141714007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_98
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 287
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055252fd8919e45cfb77283ae22feb30
+      internalID: 1410857413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_99
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 245
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08befb3bc3002481ba2cb9b26a3abc66
+      internalID: 965573085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_100
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 261
+        width: 22
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70973390ca4748e9b94cdfe0183293c
+      internalID: -768462905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_101
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 241
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc86fdc70384420bb587e1ac26ed8f3
+      internalID: -1357099553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_102
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 164
+        width: 77
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce32a8b3777c450a927609fbc2f9d92
+      internalID: 448107087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_103
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 202
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44742adc32fd54b3d8189cb6e5fd899b
+      internalID: -611078800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_104
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 160
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9ce1e50dcac40409f5a3a8e6f51807
+      internalID: 1738153392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_105
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 157
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cdc607c42974acd85c8a0aaa9748b7
+      internalID: 1399805976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_106
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 156
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60414d03b8ee44afab12de388853c6ee
+      internalID: 633869815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caterpillar_death7_107
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 161
+        width: 38
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dce70d56bcc648beb0b341d07263924
+      internalID: 1257390688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 19e5547db6d0a0f4092ba36747256420
+    internalID: -1246683486
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      caterpillar_death7_0: 484585144
+      caterpillar_death7_1: -327452622
+      caterpillar_death7_10: 1804938970
+      caterpillar_death7_100: -768462905
+      caterpillar_death7_101: -1357099553
+      caterpillar_death7_102: 448107087
+      caterpillar_death7_103: -611078800
+      caterpillar_death7_104: 1738153392
+      caterpillar_death7_105: 1399805976
+      caterpillar_death7_106: 633869815
+      caterpillar_death7_107: 1257390688
+      caterpillar_death7_11: 1484595104
+      caterpillar_death7_12: -1435197495
+      caterpillar_death7_13: 1028558837
+      caterpillar_death7_14: -498575928
+      caterpillar_death7_15: -1253060529
+      caterpillar_death7_16: 782716591
+      caterpillar_death7_17: 1645570629
+      caterpillar_death7_18: 1717437363
+      caterpillar_death7_19: 2059928339
+      caterpillar_death7_2: 1798617850
+      caterpillar_death7_20: 1613602300
+      caterpillar_death7_21: -1402165639
+      caterpillar_death7_22: 1693204696
+      caterpillar_death7_23: -831885824
+      caterpillar_death7_24: 212054850
+      caterpillar_death7_25: -270300685
+      caterpillar_death7_26: 1863424013
+      caterpillar_death7_27: -166672966
+      caterpillar_death7_28: -1024686513
+      caterpillar_death7_29: -1574693692
+      caterpillar_death7_3: 1800562561
+      caterpillar_death7_30: -308201603
+      caterpillar_death7_31: -1078926770
+      caterpillar_death7_32: -314148182
+      caterpillar_death7_33: -856411353
+      caterpillar_death7_34: 1344867849
+      caterpillar_death7_35: -1653110335
+      caterpillar_death7_36: -209241412
+      caterpillar_death7_37: 1680959191
+      caterpillar_death7_38: 1363822637
+      caterpillar_death7_39: 1915668071
+      caterpillar_death7_4: -1176481484
+      caterpillar_death7_40: -1101444435
+      caterpillar_death7_41: -294675544
+      caterpillar_death7_42: -1746308881
+      caterpillar_death7_43: -434269987
+      caterpillar_death7_44: 1102325516
+      caterpillar_death7_45: -2028136404
+      caterpillar_death7_46: -461369776
+      caterpillar_death7_47: 403931594
+      caterpillar_death7_48: 1384252551
+      caterpillar_death7_49: 758601427
+      caterpillar_death7_5: -1653745568
+      caterpillar_death7_50: -310646460
+      caterpillar_death7_51: -948317605
+      caterpillar_death7_52: -569929607
+      caterpillar_death7_53: -455774532
+      caterpillar_death7_54: -873237700
+      caterpillar_death7_55: 899497781
+      caterpillar_death7_56: 592285491
+      caterpillar_death7_57: 1674000489
+      caterpillar_death7_58: 128616442
+      caterpillar_death7_59: 168338844
+      caterpillar_death7_6: 1172208890
+      caterpillar_death7_60: -134042257
+      caterpillar_death7_61: -2076458077
+      caterpillar_death7_62: -1992970400
+      caterpillar_death7_63: 138555620
+      caterpillar_death7_64: 470955731
+      caterpillar_death7_65: 977191973
+      caterpillar_death7_66: -28337803
+      caterpillar_death7_67: 1095911775
+      caterpillar_death7_68: -2009792264
+      caterpillar_death7_69: 127083379
+      caterpillar_death7_7: -577399849
+      caterpillar_death7_70: -54433756
+      caterpillar_death7_71: 955693060
+      caterpillar_death7_72: -1162988707
+      caterpillar_death7_73: 71729987
+      caterpillar_death7_74: 1282254587
+      caterpillar_death7_75: -1469414421
+      caterpillar_death7_76: -336642372
+      caterpillar_death7_77: 876022806
+      caterpillar_death7_78: 838841085
+      caterpillar_death7_79: -1318644914
+      caterpillar_death7_8: -565279765
+      caterpillar_death7_80: -419839635
+      caterpillar_death7_81: -672196432
+      caterpillar_death7_82: 879633976
+      caterpillar_death7_83: 889057230
+      caterpillar_death7_84: -1169201797
+      caterpillar_death7_85: -1478345404
+      caterpillar_death7_86: -1229734375
+      caterpillar_death7_87: -1068047165
+      caterpillar_death7_88: -172458466
+      caterpillar_death7_89: 1983971984
+      caterpillar_death7_9: -1239859735
+      caterpillar_death7_90: -1395756323
+      caterpillar_death7_91: 1664788823
+      caterpillar_death7_92: -1716353947
+      caterpillar_death7_93: 1774451590
+      caterpillar_death7_94: 1463922941
+      caterpillar_death7_95: 1044866151
+      caterpillar_death7_96: -1266317729
+      caterpillar_death7_97: 141714007
+      caterpillar_death7_98: 1410857413
+      caterpillar_death7_99: 965573085
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
